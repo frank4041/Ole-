@@ -1,0 +1,52 @@
+[
+  {
+    "name": "computer-wide",
+    "source": "Kenney Space Station Kit",
+    "source_url": "https://kenney.nl/assets/space-station-kit",
+    "license": "CC0-1.0",
+    "changes": "Geometry normalized; palette recolored to cream/navy/teal for game rendering; original GLB retained."
+  },
+  {
+    "name": "computer-system",
+    "source": "Kenney Space Station Kit",
+    "source_url": "https://kenney.nl/assets/space-station-kit",
+    "license": "CC0-1.0",
+    "changes": "Geometry normalized; palette recolored to cream/navy/teal for game rendering; original GLB retained."
+  },
+  {
+    "name": "bed-single",
+    "source": "Kenney Space Station Kit",
+    "source_url": "https://kenney.nl/assets/space-station-kit",
+    "license": "CC0-1.0",
+    "changes": "Geometry normalized; palette recolored to cream/navy/teal for game rendering; original GLB retained."
+  },
+  {
+    "name": "table-display",
+    "source": "Kenney Space Station Kit",
+    "source_url": "https://kenney.nl/assets/space-station-kit",
+    "license": "CC0-1.0",
+    "changes": "Geometry normalized; palette recolored to cream/navy/teal for game rendering; original GLB retained."
+  },
+  {
+    "name": "chair-cushion",
+    "source": "Kenney Space Station Kit",
+    "source_url": "https://kenney.nl/assets/space-station-kit",
+    "license": "CC0-1.0",
+    "changes": "Geometry normalized; palette recolored to cream/navy/teal for game rendering; original GLB retained."
+  },
+  {
+    "name": "container-tall",
+    "source": "Kenney Space Station Kit",
+    "source_url": "https://kenney.nl/assets/space-station-kit",
+    "license": "CC0-1.0",
+    "changes": "Geometry normalized; palette recolored to cream/navy/teal for game rendering; original GLB retained."
+  },
+  {
+    "name": "biomes-cargo",
+    "source": "Biomes / Global Illumination, Inc.",
+    "source_url": "https://github.com/ill-inc/biomes-game/blob/main/src/galois/data/placeables/quests/cargo_crate.vox",
+    "license": "MIT (repository root license; no separate model exception found in repository credits)",
+    "source_sha256": "ca76a1c6907039c5a20b17a3d59e3cf5179a6aaf675155371985f1300e486906",
+    "changes": "MagicaVoxel geometry converted to polygon meshes, exposed voxel faces merged, orientation and size normalized."
+  }
+]
